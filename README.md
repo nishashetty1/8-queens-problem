@@ -16,9 +16,9 @@ You can play the game by visiting the hosted version below:
 - **Interactive Gameplay**: You can start the game with 2 queens randomly placed on the board or You can put AI in action to play the game.
 - **Manual Mode**: Play the game on your own by placing queens and trying to solve the puzzle without AI assistance.
 - **Solve Button**: If you're stuck, you can click the "Solve" button, and the AI will complete the solution for you.
+- **User Manual**: It contains a detailed User Manual for you to understand how to play the game.
 
 ## User Manual
-
 1. **Starting the Game**: 
    - Upon loading the game, you can either choose to start the game with **2 queens randomly placed** on the board for you to begin solving, or you can click the "Solve" button to let the AI solve the puzzle automatically.
    
